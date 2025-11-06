@@ -23,7 +23,7 @@ function Signup() {
     await axios
       .post("https://bookstore-backend-hzoq.onrender.com/user/signup", userInfo)
       .then((res) => {
-        console.log(res.data);
+        // console.log(res.data);
         if (res.data) {
           toast.success("Signup Successfully");
           navigate(from, { replace: true });
