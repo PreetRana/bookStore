@@ -42,7 +42,7 @@ function Navbar() {
         <a href="/">Home</a>
       </li>
       <li>
-        <a href="https://bookstore-frontend-bbnf.onrender.com/course">Course</a>
+        <a href="/course">Course</a>
       </li>
       <li>
         <a href="/contact">Contact</a>
