@@ -1,5 +1,4 @@
 import React from "react";
-import banner from "../../public/Banner.png";
 import { Typewriter } from "react-simple-typewriter";
 
 function Banner() {
