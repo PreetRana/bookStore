@@ -17,7 +17,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route
-            path="/course"
+            path="https://bookstore-frontend-bbnf.onrender.com/course"
             element={authUser ? <Courses /> : <Navigate to="/signup" />}
           />
           <Route path="/about" element={<AboutUs/>}/>
