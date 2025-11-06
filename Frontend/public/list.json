@@ -1,0 +1,215 @@
+[
+    {
+        "id": 1,
+        "name": "Pride and Prejudice",
+        "title": "Jane Austen",
+        "price": 0,
+        "category": "Free",
+        "genre": "Romance, Classic Literature",
+        "image": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/1342/pg1342-images.html"
+    },
+    
+    {
+        "id": 2,
+        "name": "Alice’s Adventures in Wonderland",
+        "title": "Lewis Carroll",
+        "price": 0,
+        "category": "Free",
+        "genre": "Fantasy, Children's Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/11/pg11-images.html"
+    },
+    {
+        "id": 3,
+        "name": "The Picture of Dorian Gray",
+        "title": "Oscar Wilde",
+        "price": 0,
+        "category": "Free",
+        "genre": "Philosophical Fiction, Gothic",
+        "image": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/174/pg174-images.html"
+    },
+    {
+        "id": 4,
+        "name": "Frankenstein",
+        "title": "Mary Shelley",
+        "price": 0,
+        "category": "Free",
+        "genre": "Horror, Science Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/84/pg84-images.html"
+    },
+    {
+        "id": 5,
+        "name": "Moby Dick",
+        "title": "Herman Melville",
+        "price": 0,
+        "category": "Free",
+        "genre": "Adventure, Sea Story, Classic Literature",
+        "image": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/2701/pg2701-images.html"
+    },
+    {
+        "id": 6,
+        "name": "The Count of Monte Cristo",
+        "title": "Alexandre Dumas",
+        "price": 0,
+        "category": "Free",
+        "genre": "Adventure, Historical Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/1184/pg1184-images.html"
+    },
+    {
+        "id": 7,
+        "name": "A Tale of Two Cities",
+        "title": "Charles Dickens",
+        "price": 0,
+        "category": "Free",
+        "genre": "Historical Fiction, Drama",
+        "image": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/98/pg98-images.html"
+    },
+    {
+        "id": 8,
+        "name": "The War of the Worlds",
+        "title": "H.G. Wells",
+        "price": 0,
+        "category": "Free",
+        "genre": "Science Fiction, Alien Invasion",
+        "image": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/36/pg36-images.html"
+    },
+    {
+        "id": 9,
+        "name": "The Time Machine",
+        "title": "H.G. Wells",
+        "price": 9.99,
+        "category": "Paid",
+        "genre": "Science Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/35/pg35.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/35/pg35-images.html"
+    },
+    {
+        "id": 10,
+        "name": "The Iliad",
+        "title": "Homer",
+        "price": 25,
+        "category": "Paid",
+        "genre": "Mythology",
+        "image": "https://www.gutenberg.org/cache/epub/6130/pg6130.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/6130/pg6130-images.html"
+    },
+    {
+        "id": 11,
+        "name": "The Prince",
+        "title": "Niccolò Machiavelli",
+        "price": 99,
+        "category": "Paid",
+        "genre":"Geopolitics",
+        "image": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html"
+    },
+    {
+        "id": 12,
+        "name": "Dracula",
+        "title": "Bram Stoker",
+        "price": 121,
+        "category": "Paid",
+        "genre": "Horror, Gothic Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/345/pg345-images.html"
+    },
+    {
+        "id": 13,
+        "name": "The Adventures of Sherlock Holmes",
+        "title": "Arthur Conan Doyle",
+        "price": 150,
+        "category": "Paid",
+        "genre": "Mystery, Detective Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/1661/pg1661-images.html"
+    },
+    {
+        "id": 14,
+        "name": "The Importance of Being Earnest",
+        "title": "Oscar Wilde",
+        "price": 89,
+        "category": "Paid",
+        "genre":"Comedy",
+        "image": "https://www.gutenberg.org/cache/epub/844/pg844.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/844/pg844-images.html"
+    },
+    {
+        "id": 15,
+        "name": "Around the World in 80 Days",
+        "title": "Jules Verne",
+        "price": 199,
+        "category": "Paid",
+        "genre":"Adventure",
+        "image": "https://www.gutenberg.org/cache/epub/103/pg103.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/103/pg103-images.html"
+    },
+    {
+        "id": 16,
+        "name": "The Quantum Enigma",
+        "title": "Albert Einstein",
+        "price": 209,
+        "category": "Paid",
+        "genre": "Science Fiction",
+        "image": "https://www.gutenberg.org/cache/epub/30155/pg30155.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/30155/pg30155-images.html"
+      },
+      {
+        "id": 17,
+        "name": "Sir Gawayne and the Green Knight",
+        "title": "Richard Morris",
+        "price": 12.49,
+        "currency": "USD",
+        "category": "Paid",
+        "genre": "Mythology",
+        "image": "https://www.gutenberg.org/cache/epub/14568/pg14568.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/14568/pg14568-images.html"
+      },
+      {
+        "id": 18,
+        "name": "The King in Yellow",
+        "title": "Robert W. Chambers",
+        "price": 7.99,
+        "currency": "USD",
+        "category": "Paid",
+        "genre": "Horror",
+        "image": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/8492/pg8492-images.html"
+      },
+      {
+        "id": 19,
+        "name": "Othello",
+        "title": "William Shakespeare",
+        "price": 25,
+        "category": "Paid",
+        "genre": "Comedy",
+        "image": "https://www.gutenberg.org/cache/epub/2267/pg2267.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/2267/pg2267-images.html"
+      },
+      {
+        "id": 20,
+        "name": "ROMEO AND JULIET",
+        "title": "William Shakespeare",
+        "price": 30,
+        "category": "Paid",
+        "genre": "Comedy",
+        "image": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/1513/pg1513-images.html"
+      },
+      {
+        "id": 21,
+        "name": "A Room With A View",
+        "title": "E. M. Forster",
+        "price": 5.99,
+        "category": "Paid",
+        "genre": "Comedy",
+        "image": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
+        "readLink": "https://www.gutenberg.org/cache/epub/2641/pg2641-images.html"
+      }
+]
