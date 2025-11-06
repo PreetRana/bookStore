@@ -10,20 +10,11 @@ import list from "../../public/list.json"
 import Cards from "./Cards";
 function Freebook() {
   const [book, setBook] = useState([]);
-  useEffect(() => {
-    const getBook = async () => {
-      try {
-        // const res = await axios.get("http://localhost:4001/book");
 
-        const data = list.filter((data) => data.category === "Free");
-        console.log(data);
-        setBook(data);
-      } catch (error) {
-        console.log(error);
-      }
-    };
-    getBook();
-  }, []);
+  useEffect(() => {
+    const data = list.filter((data) => data.category === "Free");
+    setBook(data);
+  }, []); // runs only once
 
   var settings = {
     dots: true,
@@ -65,7 +56,7 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-          Explore a wide range of free courses designed to expand your knowledge, sharpen your skills, and fuel your curiosity — all at no cost!
+            Explore a wide range of free courses designed to expand your knowledge, sharpen your skills, and fuel your curiosity — all at no cost!
           </p>
         </div>
 

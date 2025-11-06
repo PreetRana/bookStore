@@ -5,20 +5,7 @@ import { Link } from "react-router-dom";
 import list from "../../public/list.json";
 
 function Course() {
-  const [book, setBook] = useState([]);
-
-  useEffect(() => {
-    const getBook = async () => {
-      try {
-        // const res = await axios.get("http://localhost:4001/book");
-        console.log(list.data);
-        setBook(list);
-      } catch (error) {
-        console.log(error);
-      }
-    };
-    getBook();
-  }, []);
+  const [book] = useState(list);
 
   return (
     <>
